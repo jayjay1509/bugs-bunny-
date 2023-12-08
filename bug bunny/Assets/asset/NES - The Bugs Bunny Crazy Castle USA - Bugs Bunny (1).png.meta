@@ -1,0 +1,445 @@
+fileFormatVersion: 2
+guid: 577f0f0c196b6404ebc6103e36d559ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -332743047190604672
+    second: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_0
+  - first:
+      213: 5897819202121988042
+    second: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_1
+  - first:
+      213: 990907086919073600
+    second: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_2
+  - first:
+      213: 6300975609230351016
+    second: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_3
+  - first:
+      213: 4530794396158482084
+    second: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_4
+  - first:
+      213: -5492034542916066669
+    second: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_5
+  - first:
+      213: 9092036374113802054
+    second: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_6
+  - first:
+      213: 4929483243079882276
+    second: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_7
+  - first:
+      213: 6112590150216837199
+    second: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_8
+  - first:
+      213: 5436162604049545193
+    second: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_9
+  - first:
+      213: 862543935102311669
+    second: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_10
+  - first:
+      213: -2085006221109316015
+    second: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_11
+  - first:
+      213: 3945745324259021415
+    second: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_12
+  - first:
+      213: 8273695092336035749
+    second: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_13
+  - first:
+      213: 913942179337711222
+    second: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 60
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08419b626fbd16bf0800000000000000
+      internalID: -332743047190604672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 33
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac775fbf05349d150800000000000000
+      internalID: 5897819202121988042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 60
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f7a39deb860cd00800000000000000
+      internalID: 990907086919073600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa539ebeef817750800000000000000
+      internalID: 6300975609230351016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 33
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a65b558f7d90ee30800000000000000
+      internalID: 4530794396158482084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 60
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39220576eaf58c3b0800000000000000
+      internalID: -5492034542916066669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 60
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647dbfb19e66d2e70800000000000000
+      internalID: 9092036374113802054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 33
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426540e54ea096440800000000000000
+      internalID: 4929483243079882276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 60
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48e9311b5844d450800000000000000
+      internalID: 6112590150216837199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7b2ab1611217b40800000000000000
+      internalID: 5436162604049545193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 5
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcd0f6932f58fb00800000000000000
+      internalID: 862543935102311669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 7
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156bc4483e19013e0800000000000000
+      internalID: -2085006221109316015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_14
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 5
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67eaba0e199feac00800000000000000
+      internalID: 913942179337711222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dff7898b37494dd449fb948e9bd91c18
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_0: -332743047190604672
+      NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_1: 5897819202121988042
+      NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_10: 862543935102311669
+      NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_11: -2085006221109316015
+      NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_14: 913942179337711222
+      NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_2: 990907086919073600
+      NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_3: 6300975609230351016
+      NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_4: 4530794396158482084
+      NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_5: -5492034542916066669
+      NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_6: 9092036374113802054
+      NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_7: 4929483243079882276
+      NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_8: 6112590150216837199
+      NES - The Bugs Bunny Crazy Castle USA - Bugs Bunny (1)_9: 5436162604049545193
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
