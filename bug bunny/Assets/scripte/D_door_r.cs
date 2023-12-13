@@ -1,18 +1,11 @@
-using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-
-
-public class teleporte : MonoBehaviour
+public class D_door_r : MonoBehaviour
 {
-   
-    
     private float rajoutz = 10f;
     private cooldwon cooldownManager;
-    
-
     private playercontroller _control;
     
     private bool is_door;
@@ -23,7 +16,6 @@ public class teleporte : MonoBehaviour
         // Trouver le CooldownManager dans la scène
         
         cooldownManager = GameObject.FindObjectOfType<cooldwon>();
-        
         _control = FindObjectOfType<playercontroller>();
         
         
@@ -44,7 +36,7 @@ public class teleporte : MonoBehaviour
         {
             if (Input.GetKey(KeyCode.W) && cooldownManager.CanTeleport())
             {
-                _control._tel_L = !_control._tel_L;
+                _control.D_tel_R = !_control.D_tel_R;
                 cooldownManager.UpdateTeleportTime();
                 
             }
@@ -54,6 +46,3 @@ public class teleporte : MonoBehaviour
     }
 
 }
-
-    
-

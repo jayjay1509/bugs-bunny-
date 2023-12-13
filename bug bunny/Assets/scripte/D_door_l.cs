@@ -1,11 +1,8 @@
-using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-
-
-public class teleporte : MonoBehaviour
+public class D_door_l : MonoBehaviour
 {
    
     
@@ -44,7 +41,7 @@ public class teleporte : MonoBehaviour
         {
             if (Input.GetKey(KeyCode.W) && cooldownManager.CanTeleport())
             {
-                _control._tel_L = !_control._tel_L;
+                _control.D_tel_L = !_control.D_tel_L;
                 cooldownManager.UpdateTeleportTime();
                 
             }
@@ -54,6 +51,3 @@ public class teleporte : MonoBehaviour
     }
 
 }
-
-    
-
